@@ -1,5 +1,3 @@
-
-
 public class Handler {
     public void HandlerRequest(Request request){
         String data = request.getData();

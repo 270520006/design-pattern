@@ -6,7 +6,7 @@ public class FilterChain {
     public FilterChain() {
         filters.add(new FilterEgg());
         filters.add(new FilterShit());
-        filters.add(new FilterShit());
+        filters.add(new FilterDrunk());
     }
     public void processData(String data){
         for (Filter filter : filters) {
