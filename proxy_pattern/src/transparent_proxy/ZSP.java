@@ -1,6 +1,5 @@
 package transparent_proxy;
 
-import static_proxy.Programmer;
 
 public class ZSP implements Programmer {
     //    我叫zsp，一个程序猿
